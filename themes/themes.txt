@@ -1,0 +1,2 @@
+git clone git@github.com:luuman/hexo-theme-spfk.git themes/spfk
+git clone https://github.com/MOxFIVE/hexo-theme-yelee.git themes/yelee
